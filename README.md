@@ -1,0 +1,1 @@
+# configuracion-estatico-base-de-datos
